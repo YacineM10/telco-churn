@@ -1,4 +1,4 @@
-# Prédiction du churn client — Telco
+# Prédiction du churn client - Telco
 
 Identifier les clients d'un opérateur télécom qui risquent de partir, et comprendre pourquoi.
 
